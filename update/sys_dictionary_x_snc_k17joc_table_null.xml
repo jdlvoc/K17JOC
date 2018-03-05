@@ -55,7 +55,7 @@
         <sys_created_by>jd.oconnell</sys_created_by>
         <sys_created_on>2018-03-05 18:27:16</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>7196a4e313a897803784b5f12244b0ff</sys_id>
+        <sys_id>4ef0b8a313a8db40da7a7ad66144b024</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_k17joc_table</sys_name>
         <sys_package display_value="K17JOC" source="x_snc_k17joc">5cd26c2f136897803784b5f12244b07a</sys_package>
@@ -64,7 +64,7 @@
         <sys_scope display_value="K17JOC">5cd26c2f136897803784b5f12244b07a</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_k17joc_table_NULL</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2018-03-05 18:43:45</sys_updated_on>
+        <sys_updated_on>2018-03-05 19:29:04</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
