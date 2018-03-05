@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_snc_k17joc.logging.destination</name>
+        <read_roles/>
+        <suffix>logging.destination</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>jd.oconnell</sys_created_by>
+        <sys_created_on>2018-03-05 19:42:10</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>3ce3346313e897803784b5f12244b038</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_k17joc.logging.destination</sys_name>
+        <sys_package display_value="K17JOC" source="x_snc_k17joc">5cd26c2f136897803784b5f12244b07a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="K17JOC">5cd26c2f136897803784b5f12244b07a</sys_scope>
+        <sys_update_name>sys_properties_3ce3346313e897803784b5f12244b038</sys_update_name>
+        <sys_updated_by>jd.oconnell</sys_updated_by>
+        <sys_updated_on>2018-03-05 19:42:10</sys_updated_on>
+        <type>string</type>
+        <value>file</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=3ce3346313e897803784b5f12244b038"/>
+</record_update>
